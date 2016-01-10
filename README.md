@@ -24,7 +24,7 @@ It allows the same functionality as Casper with two simple additions:
 ## The new menu
 ![Menu for Casper with Tags](https://raw.githubusercontent.com/jjcosgrove/ghost-casper-with-tags/master/grabs/menu.png)
 
-## The page template
+## The 'All Tags' page template
 ![Page Template for Casper with Tags](https://raw.githubusercontent.com/jjcosgrove/ghost-casper-with-tags/master/grabs/page-template.png)
 
 ## Changing the number of 'popular' tags in the menu

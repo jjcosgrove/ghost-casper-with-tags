@@ -1,4 +1,4 @@
-# Casper with Tags - A modified Ghost theme.
+# Casper with Tags - A Ghost theme. With tags.
 This is a modified version of the default 'Casper' theme included with the awesome blogging platform: [Ghost](https://github.com/TryGhost/Ghost).
 
 It allows the same functionality as Casper with two simple additions:

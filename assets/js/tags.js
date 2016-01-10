@@ -28,7 +28,7 @@ function PopulateTagPageTags() {
         })
     ).done(function (data) {
         $(data.tags).each(function(index,item) {
-            $('.tagpage-list').append('<li class="tagpagelist-item"><span class="badge">'+ item.count.posts +'</span><a href="/tag/'+ item.name +'">'+ item.name +'</a></li>');
+            $('.tagpage-list').append('<li class="tagpagelist-item"><span class="badge">'+ item.count.posts +'</span><a href="/tag/'+ item.slug +'">'+ item.name +'</a></li>');
         });
     });
 }

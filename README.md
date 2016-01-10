@@ -7,6 +7,7 @@ It allows the same functionality as Casper with two simple additions:
 
 ## Requirements
 * Clean/working install of Ghost
+* Public API Enabled
 * A navigation item with title/slug: All Tags/all-tags*
 * A static page with title/slug: All Tags/all-tags*
 

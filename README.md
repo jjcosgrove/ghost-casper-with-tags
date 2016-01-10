@@ -27,7 +27,7 @@ It allows the same functionality as Casper with two simple additions:
 ![Page Template for Casper with Tags](https://raw.githubusercontent.com/jjcosgrove/ghost-casper-with-tags/master/grabs/page-template.png)
 
 ## Changing the number of 'popular' tags in the menu
-change the 'limit' argument in: assets/js/tags.js within the PopulateMenuTags() function definition, from the default value: 10.
+Change the 'limit' argument in: assets/js/tags.js within the PopulateMenuTags() function definition.
 
 ```javascript
 ghost.url.api('tags', {
